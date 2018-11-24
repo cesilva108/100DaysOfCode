@@ -1,4 +1,4 @@
-# I've joined the #100DaysOfCode Challenge
+# Commencing the #100DaysOfCode Challenge on Saturday, November 24, 2018
 
 ## Contents
 
