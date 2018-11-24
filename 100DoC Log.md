@@ -10,9 +10,9 @@
 **Next Project**: 
 
 1. How can the underlined PS script be shortened/condensed? 
-1. Could it be written in BATCH instead, thereby not necessitating to use PS?
+1. Could it be written in BATCH instead, thereby not necessitating the use of PS?
 1. Learn more about GitHub's MarkDown.
-1. How to to comment-out multiple succeeding lines in GitHub?
+1. How to comment-out multiple succeeding lines in GitHub?
 
 <!-- **Link to work:** [Calculator App](http://www.example.com) -->
 
